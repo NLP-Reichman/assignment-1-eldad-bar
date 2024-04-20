@@ -1,0 +1,32 @@
+{
+  "test_preprocess": {
+    "vocab_length": 1804
+  },
+  "test_lm": {
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
+  },
+  "test_eval": {
+    "en_en": 31.622009327855498,
+    "en_fr": 65.47303415081414,
+    "en_tl": 88.46204657719254,
+    "en_nl": 75.78946341541324
+  },
+  "test_match": {
+    "en_en_3": 31.622009327855498,
+    "en_tl_3": 88.46204657719254,
+    "en_nl_3": 75.78946341541324
+  },
+  "test_generate": {
+    "english_1_gram": "Io o e   tai ea oet  ",
+    "english_2_gram": "I am tps he @se a t.cous",
+    "english_3_gram": "I am to be an of a @The ",
+    "english_4_gram": "I Lover of the leason and ",
+    "spanish_2_gram": "Soy es @A hto/tpe a ps ",
+    "spanish_3_gram": "Soy al co/t.co/na co/ej",
+    "french_2_gram": "Je suis de le laront.cous l",
+    "french_3_gram": "Je suis de pas chon en aver"
+  }
+}
